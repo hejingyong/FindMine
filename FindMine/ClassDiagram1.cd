@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="2.25" Y="7.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_0000_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FindMine.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAhBAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>FindMine.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFindMineApp" Collapsed="true">
+    <Position X="2.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAgBAAAAAAAAAAAQAAAABAAAAAAA=</HashCode>
+      <FileName>FindMine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFindMineDoc" Collapsed="true">
+    <Position X="4" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAQAAgBAAAAAADAgAgAgEAAAAAAABAA=</HashCode>
+      <FileName>FindMineDoc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFindMineView">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAABAASEGACAAAAoJBsABEgBABAgCAEAioAAAAAAQ=</HashCode>
+      <FileName>FindMineView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame" Collapsed="true">
+    <Position X="4" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAQAAAAAAAAgBACAAAgDQAAgAAEAAAAIBAAAA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MineGrid">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAiiQBACAIABIAIQAAEAAABAgAAAAACCAAACABAA=</HashCode>
+      <FileName>MineGrid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MineItem">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgCAAAgAAQAAAAAAAAAEAAAAAAAAAAAAAAgAAgAAECA=</HashCode>
+      <FileName>MineItem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="Win" Collapsed="true">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MineGrid.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Lost" Collapsed="true">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MineGrid.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

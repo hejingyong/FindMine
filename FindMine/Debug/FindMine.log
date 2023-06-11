@@ -1,0 +1,12 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  stdafx.cpp
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  MineItem.cpp
+  MineGrid.cpp
+  MainFrm.cpp
+  FindMineView.cpp
+  FindMineDoc.cpp
+  FindMine.cpp
+  正在生成代码...
+FindMine.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  FindMine.vcxproj -> F:\code\c++\FindMine\Debug\FindMine.exe
